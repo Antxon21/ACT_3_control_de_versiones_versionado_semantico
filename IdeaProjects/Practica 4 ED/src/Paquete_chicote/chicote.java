@@ -1,3 +1,5 @@
+package Paquete_chicote;
+
 /**
  * @author Antxón Moço / IES Son Ferrer
  * @version 1.2.0
