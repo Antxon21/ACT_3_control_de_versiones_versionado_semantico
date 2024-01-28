@@ -2,7 +2,7 @@
  * @author Antxón Moço / IES Son Ferrer
  * @version 1.2.0
  */
-public class Coche {
+public class chicote {
 
 
     //ATRIBUTOS
